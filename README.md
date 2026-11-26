@@ -1,2 +1,4 @@
-# sabor-fome
-Projeto acadêmico de concepção e prototipação de um aplicativo de cardápio digital.
+# Documentação do Sabor Fome
+
+Este diretório contém os documentos acadêmicos
+relacionados ao desenvolvimento do projeto Sabor Fome.
